@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\admin\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\admin\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\admin\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\admin\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
+C:\Users\admin\Desktop\PROGRAMOWANIE OBIEKTOWE LABY\1 program mój\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\PROGRAMOWANIE OBIEKTOWE LABY\1 program mój\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PROGRAMOWANIE OBIEKTOWE LABY\1 program mój\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\admin\Desktop\PROGRAMOWANIE OBIEKTOWE LABY\1 program mój\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
